@@ -8,6 +8,11 @@ This work i) enhances the visual perception of VLM through a `ForgePerceiver`, w
 ![image](./img/VLAForge.jpg)
 
 ## Setup
+Run
+```bash
+conda env create -f environment.yml
+```
+to create the virtual enviroment.
 
 ## Device
 - Single NVIDIA GeForce RTX 3090
