@@ -14,3 +14,35 @@ This work i) enhances the visual perception of VLM through a `ForgePerceiver`, w
 
 ## Prepare Your Data
 #### Step 1. Download the Deepfake Detection Datasets
+- [FaceForensics++](https://github.com/ondyari/FaceForensics), [CDF-v1](https://github.com/yuezunli/celeb-deepfakeforensics/tree/master/Celeb-DF-v1), [CDF-v2](https://github.com/yuezunli/celeb-deepfakeforensics)), [Deepfake Detection Challenge](https://www.kaggle.com/c/deepfake-detection-challenge/data), [DeepfakeDetection](https://github.com/ondyari/FaceForensics/tree/master/dataset)
+
+- VQGAN, SiT-XL/2, DiT, PixArt are from [DF40](https://github.com/YZY-stack/DF40) (Celeb-DF).
+
+#### Step 2. The JSON files are provided in [JSONs](https://github.com/mala-lab/VLAForge/tree/main/dataset/dataset_json)).
+
+#### Step 3. Download the Pre-train Models on [Google Drive].
+
+## Run VLAForge
+#### Quick Start
+- Set `test_dataset` to the name of the test dataset in test.ymal. Then, run
+```bash
+bash test.sh
+```
+
+#### Training
+- Set `train_dataset` to the name of the test dataset in train.ymal. Then, train your own weights by runing
+```bash
+bash train.sh
+```
+
+## Citation
+- If you find the implementation useful, we would appreciate your acknowledgement via citing our VLAForge paper:
+```bibtex
+@inproceedings{zhu2026dfd,
+  title={Unleashing Vision-Language Semantics for Deepfake Video Detection},
+  author={Jiawen Zhu, Yunqi Miao, Xueyi Zhang, Jiankang Deng, Guansong Pang},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  year={2026}
+}
+```
+
