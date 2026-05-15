@@ -18,7 +18,7 @@ This work i) enhances the visual perception of VLM through a `ForgePerceiver`, w
 
 - VQGAN, SiT-XL/2, DiT, PixArt are from [DF40](https://github.com/YZY-stack/DF40) (Celeb-DF).
 
-#### Step 2. The JSON files are provided in [JSONs](https://github.com/mala-lab/VLAForge/tree/main/dataset/dataset_json)).
+#### Step 2. The JSON files are provided in [JSONs](https://github.com/mala-lab/VLAForge/tree/main/dataset/dataset_json).
 
 #### Step 3. Download the Pre-train Models on [Google Drive].
 
