@@ -24,13 +24,13 @@ This work i) enhances the visual perception of VLM through a `ForgePerceiver`, w
 
 ## Run VLAForge
 #### Quick Start
-- Set `test_dataset` to the name of the test dataset in test.ymal. Then, run
+- Set `test_dataset` to the name of the test dataset in [test.ymal](https://github.com/mala-lab/VLAForge/blob/main/config/test.yaml). Then, run
 ```bash
 bash test.sh
 ```
 
 #### Training
-- Set `train_dataset` to the name of the test dataset in train.ymal. Then, train your own weights by runing
+- Set `train_dataset` to the name of the test dataset in [train.ymal](https://github.com/mala-lab/VLAForge/blob/main/config/train.yaml). Then, train your own weights by runing
 ```bash
 bash train.sh
 ```
