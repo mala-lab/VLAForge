@@ -14,7 +14,7 @@ This work i) enhances the visual perception of VLM through a `ForgePerceiver`, w
 
 ## Prepare Your Data
 #### Step 1. Download the Deepfake Detection Datasets
-- [FaceForensics++](https://github.com/ondyari/FaceForensics), [CDF-v1](https://github.com/yuezunli/celeb-deepfakeforensics/tree/master/Celeb-DF-v1), [CDF-v2](https://github.com/yuezunli/celeb-deepfakeforensics)), [Deepfake Detection Challenge](https://www.kaggle.com/c/deepfake-detection-challenge/data), [DeepfakeDetection](https://github.com/ondyari/FaceForensics/tree/master/dataset)
+- [FaceForensics++](https://github.com/ondyari/FaceForensics), [CDF-v1](https://github.com/yuezunli/celeb-deepfakeforensics/tree/master/Celeb-DF-v1), [CDF-v2](https://github.com/yuezunli/celeb-deepfakeforensics), [Deepfake Detection Challenge](https://www.kaggle.com/c/deepfake-detection-challenge/data), [DeepfakeDetection](https://github.com/ondyari/FaceForensics/tree/master/dataset)
 
 - VQGAN, SiT-XL/2, DiT, PixArt are from [DF40](https://github.com/YZY-stack/DF40) (Celeb-DF).
 
