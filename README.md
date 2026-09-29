@@ -25,7 +25,7 @@ to create the virtual enviroment.
 
 #### Step 2. The JSON files are provided in [JSONs](https://github.com/mala-lab/VLAForge/tree/main/dataset/dataset_json).
 
-#### Step 3. Download the Pre-train Models on [Google Drive](https://drive.google.com/file/d/1eFW_KYDrFRfjc9Tm1jklBqfNIkUzSU0N/view?usp=sharing).
+#### Step 3. Download the Pre-train Models on [Google Drive](https://drive.google.com/file/d/1_PhtirGA_vMZWqnpZHGHHinT6QKF1d4L/view?usp=sharing).
 
 ## Run VLAForge
 #### Quick Start
